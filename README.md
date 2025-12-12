@@ -52,17 +52,17 @@ Enter the number of the action you want, then follow the prompts.
 
 **Add Contact**
 
-    Enter name: John
-    Enter phone (optional): 12345
-    Enter email (optional): john@example.com
+    Enter name: Amir
+    Enter phone (optional): 999-999-999
+    Enter email (optional): Amir@example.com
     Contact 'John' added successfully.
 
 **View Contact**
 
     Enter name to view: John
-    Name: John
-    Phone: 12345
-    Email: john@example.com
+    Name: Amir
+    Phone: 999-999-999
+    Email: Amir@example.com
 
 ## Code Structure
 
